@@ -147,7 +147,7 @@ LANGUAGE_CODE = 'en-us'
 
 # These parameters will be inserted into the database automatically.
 SITE_ID = 1
-SITE_NAME = "Site Name"
+SITE_NAME = "CoLab"
 SITE_DOMAIN = get_env("BIOSTAR_HOSTNAME")
 
 SERVER_EMAIL = DEFAULT_FROM_EMAIL = get_env("DEFAULT_FROM_EMAIL")
@@ -368,7 +368,7 @@ GOOGLE_TRACKER = ""
 GOOGLE_DOMAIN = ""
 
 # The site logo.
-SITE_LOGO = "biostar2.logo.png"
+SITE_LOGO = "hblogo.jpg"
 
 # The default CSS file to load.
 SITE_STYLE_CSS = "biostar.style.less"
